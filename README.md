@@ -1,6 +1,4 @@
-# darshak767
-
-<h1 align="center">Hi 👋, I'm [Darshak Rathod]</h1>
+<h1 align="center">Hi 👋, I'm Darshak Rathod</h1>
 <h3 align="center">A passionate MERN Stack Developer building full-stack web applications</h3>
 
 <p align="center">
@@ -8,10 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/darshak767/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="darshak767@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -19,10 +15,9 @@
 ### 🚀 About Me
 
 - 🔭 Currently building full-stack apps with **MongoDB, Express.js, React & Node.js**
-- 🌱 Currently learning **[e.g. Next.js, TypeScript, Docker]**
+- 🌱 Currently learning **MERN Projects**
 - 💬 Ask me about **React, Node.js, REST APIs, MongoDB**
-- 📫 Reach me at **your-email@example.com**
-- ⚡ Fun fact: **[add something fun about you]**
+- 📫 Reach me at **darshak767@gmail.com**
 
 ---
 
@@ -40,55 +35,25 @@
 <tr>
 <td width="50%">
 
-**[Project One Name](https://github.com/your-username/project-one)**
-📌 Short description of what it does and the problem it solves.
+**[Airbnb](https://github.com/darshak767/Airbnb)**
+📌 WanderLust is a full-stack Airbnb clone built using Node.js, Express.js, MongoDB, and EJS, allowing users to explore, create, and manage property listings.<br><br>
+It includes user authentication, CRUD operations, reviews, and responsive UI for a seamless vacation rental booking experience.
 `React` `Node.js` `MongoDB` `Express`
-[Live Demo](https://your-demo-link.com)
+[Live Demo](https://github.com/darshak767/Airbnb)
 
 </td>
 <td width="50%">
 
-**[Project Two Name](https://github.com/your-username/project-two)**
-📌 Short description of what it does and the problem it solves.
+**[Whatsapp Chat App]([https://github.com/your-username/project-two](https://github.com/darshak767/whatsapp-chat-app))**
+📌 A real-time WhatsApp-style chat application that enables users to communicate instantly through private messaging with a simple, user-friendly interface.<br><br> It provides seamless conversations and a responsive design for smooth communication across devices.
 `React` `Node.js` `MongoDB` `Socket.io`
-[Live Demo](https://your-demo-link.com)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Project Three Name](https://github.com/your-username/project-three)**
-📌 Short description of what it does and the problem it solves.
-`Next.js` `Express` `MongoDB` `JWT`
-[Live Demo](https://your-demo-link.com)
-
-</td>
-<td width="50%">
-
-**[Project Four Name](https://github.com/your-username/project-four)**
-📌 Short description of what it does and the problem it solves.
-`React` `Redux` `Node.js` `Stripe API`
-[Live Demo](https://your-demo-link.com)
+[Live Demo]([https://your-demo-link.com](https://github.com/darshak767/whatsapp-chat-app))
 
 </td>
 </tr>
 </table>
 
-> 📁 See all my repositories [here](https://github.com/your-username?tab=repositories)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+> 📁 See all my repositories [here](https://github.com/darshak767)
 
 ---
 
@@ -98,5 +63,5 @@
   I'm open to collaborating on interesting projects and new opportunities. Feel free to reach out!
 </p>
 
-<p align="center">⭐️ From <a href="https://github.com/your-username">your-username</a></p>
+<p align="center">⭐️ From <a href="https://github.com/darshak767">darshak767</a></p>
 Thanks for visiting my profile! ⭐
