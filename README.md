@@ -23,7 +23,7 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,git,github,figma,postman" />
 </p>
 
@@ -35,19 +35,17 @@
 <tr>
 <td width="50%">
 
-**[Airbnb](https://github.com/darshak767/Airbnb)**
+**<h2 align="center">[Airbnb](https://github.com/darshak767/Airbnb)</h2>**
 📌 WanderLust is a full-stack Airbnb clone built using Node.js, Express.js, MongoDB, and EJS, allowing users to explore, create, and manage property listings.<br><br>
-It includes user authentication, CRUD operations, reviews, and responsive UI for a seamless vacation rental booking experience.
+It includes user authentication, CRUD operations, reviews, and responsive UI for a seamless vacation rental booking experience.<br><br>
 `React` `Node.js` `MongoDB` `Express`
-[Live Demo](https://github.com/darshak767/Airbnb)
 
 </td>
 <td width="50%">
 
-**[Whatsapp Chat App]([https://github.com/your-username/project-two](https://github.com/darshak767/whatsapp-chat-app))**
-📌 A real-time WhatsApp-style chat application that enables users to communicate instantly through private messaging with a simple, user-friendly interface.<br><br> It provides seamless conversations and a responsive design for smooth communication across devices.
+**<h2 align="center">[Whatsapp Chat App](https://github.com/darshak767/whatsapp-chat-app)</h2>**
+📌 A real-time WhatsApp-style chat application that enables users to communicate instantly through private messaging with a simple, user-friendly interface.<br><br> It provides seamless conversations and a responsive design for smooth communication across devices.<br><br>
 `React` `Node.js` `MongoDB` `Socket.io`
-[Live Demo]([https://your-demo-link.com](https://github.com/darshak767/whatsapp-chat-app))
 
 </td>
 </tr>
